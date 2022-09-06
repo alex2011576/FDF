@@ -3,17 +3,17 @@
 A simple 3D wireframe rasterizer using MinilibX. FdF renders 3D models contained in a specific .fdf format. 
 Two distinct forms of projection are supported (isometric and perspective). 
 
-###Features:
-  *zoom 
-  *panning 
-  *simple rotation 
-  *scaling up/down
-  *full screen
-  *close window(stop program)
-  *vertical coloration
-  *reading of colors from map (colors represented as hex)
+### Features:
+  * zoom 
+  * panning 
+  * simple rotation 
+  * scaling up/down
+  * full screen
+  * close window(stop program)
+  * vertical coloration
+  * reading of colors from map (colors represented as hex)
 
-###Requirements
+### Requirements
 To run the program MinilibX needs to be installed.
 MacOS: https://github.com/dannywillems/minilibx-mac-osx
 Linux: https://github.com/42Paris/minilibx-linux
