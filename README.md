@@ -12,6 +12,7 @@ Two distinct forms of projection are supported (isometric and perspective).
   * close window (stop program)
   * vertical coloration
   * reading colors from maps <sub>(where colors for eahh point are presented in hex after `,`)</sub>
+  * usage pannel
 
 ### Requirements
 To run the program MinilibX needs to be installed.
