@@ -9,9 +9,9 @@ Two distinct forms of projection are supported (isometric and perspective).
   * simple rotation 
   * scaling up/down
   * full screen
-  * close window(stop program)
+  * close window (stop program)
   * vertical coloration
-  * reading of colors from map (colors represented as hex)
+  * reading colors from maps (where colors presented as in hex after ',')
 
 ### Requirements
 To run the program MinilibX needs to be installed.
